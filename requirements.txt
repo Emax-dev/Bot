@@ -1,0 +1,10 @@
+git+https://github.com/python-telegram-bot/python-telegram-bot.git
+requests==2.31.0
+python-dotenv==1.0.0
+urllib3==2.0.7
+six==1.16.0
+Pillow==10.4.0
+cryptography==42.0.2
+pytz==2023.3
+tzlocal==5.2
+apscheduler==3.10.4
